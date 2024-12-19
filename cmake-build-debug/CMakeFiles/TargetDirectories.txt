@@ -1,0 +1,5 @@
+/home/oreste/CLionProjects/ApproxImageVoronoi/cmake-build-debug/CMakeFiles/ApproxImageVoronoi.dir
+/home/oreste/CLionProjects/ApproxImageVoronoi/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/oreste/CLionProjects/ApproxImageVoronoi/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/oreste/CLionProjects/ApproxImageVoronoi/cmake-build-debug/CMakeFiles/ApproxImageVoronoi_autogen_timestamp_deps.dir
+/home/oreste/CLionProjects/ApproxImageVoronoi/cmake-build-debug/CMakeFiles/ApproxImageVoronoi_autogen.dir

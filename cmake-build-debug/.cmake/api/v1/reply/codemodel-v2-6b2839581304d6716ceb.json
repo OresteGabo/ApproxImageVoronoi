@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ApproxImageVoronoi",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ApproxImageVoronoi::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ApproxImageVoronoi-Debug-abb2a3317e33ee23ba1a.json",
+					"name" : "ApproxImageVoronoi",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ApproxImageVoronoi_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ApproxImageVoronoi_autogen-Debug-0892553c9ac4c307ca10.json",
+					"name" : "ApproxImageVoronoi_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ApproxImageVoronoi_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ApproxImageVoronoi_autogen_timestamp_deps-Debug-5e387ae235332664a772.json",
+					"name" : "ApproxImageVoronoi_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/oreste/CLionProjects/ApproxImageVoronoi/cmake-build-debug",
+		"source" : "/home/oreste/CLionProjects/ApproxImageVoronoi"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
